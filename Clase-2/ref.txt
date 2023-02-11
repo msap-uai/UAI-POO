@@ -1,0 +1,14 @@
+﻿
+
+Instancia = creacion de objeto
+
+
+CARACTERISTICAS DE UN OBJETO
+estado = caracteristicas que posee en un momneto dado
+comportamiento = conjunto de acciones que ese objeto puede realiziar
+identidad= conjunto de caracteristicas que hace que ese objeto sea unico
+
+----------
+
+
+

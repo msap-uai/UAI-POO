@@ -1,0 +1,36 @@
+﻿TIPOS DE PROGRAMACION
+	PROGRAMACION FUNCIONAL
+	PROGRAMACION ORIENTADA A OBJETOS
+
+INSTALAR
+	- instalar visual studio community (gratuito)
+	- microsoft learn (guia de referencias)
+
+PARADIGMA ORITADO A OBJETOS
+	Analisis orientada a objeto
+	Diseño orientada a objeto (UML) CLASES
+	* Programacion orientada a objeto
+
+ELEMENTOS QUE COMPONEN EL POO
+	ABSTRACCION: definicion de las caracteristicas esenciales
+	ENCAPSULAMIENTO: oculta la estructura y comportamiento.
+		interfase: la cara hacia el exterior
+		implementacion: la cara a el interior (oculto)
+	MODULARIDAD: 
+	JERARQUIA: ordenacion de las abstracciones 
+			(es parte de)  establece la relacion de agregacion
+			(es un). es unidireccional. establece la relacion de herencia
+
+	TIPOS: son las clases que definen a un objeto como un tipo. objeto cliente de tipo Cliente.
+		Da la visibilidad que se va a tener del objeto
+		una clase puede tener mas de un tipo(herencia). se puede instanciar un objeto de otra clase
+		Persona c = new Cliente() // va a tener las caracteristicas de cliente (sublcase).
+		se podria modificar el tipo de objeto existente
+		un objeto solo tiene una clase pero puede tener varios tipos
+	LIGADURA: estatica o temprana
+				dinamica o tardia
+	CONCURRENCIAS: varios objetos pueden ejecutarse al mismo tiempo o simultaneamente
+	PERSISTENCIA: existencia del objeto en el tiempo. se inicia con la instanciacion y termina con la destriccion
+
+INSTANCIACION: creacion de un objeto a travez de una clase
+

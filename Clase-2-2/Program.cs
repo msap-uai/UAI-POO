@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace POO
+namespace Clase_2_2
 {
     static class Program
     {
@@ -18,10 +18,5 @@ namespace POO
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
-       
-    }
-    public class Cliente // definicion de la clase
-    {
-
     }
 }
