@@ -1,0 +1,21 @@
+﻿EVENTOS
+DADO UN EVENTO SE DESENCADENA UNA FUNCION O VARIAS
+
+//1. DECLARACION DEL EVENTO
+	dentro de la clase. nombre del evento ej peligro
+	public event EventHandler Peligro;
+
+//2. DESENCADENAR EVENTO
+	(Propiedad de la clase. dentro del get)
+	if (Temperatura > 100) 
+	Peligro?.Invoke(null,null);
+
+//3. suscripcion del evento
+	T.Peligro += AltaTemperatura;
+
+//4. ACCION DEL EVENTO
+	es una funcion fuera de la clase
+	 private void AltaTemperatura( object sender, EventArgs e) //muestra una notificacion
+        {
+            MessageBox.Show($"Alta temperatura: {T.Temperatura}");
+        }

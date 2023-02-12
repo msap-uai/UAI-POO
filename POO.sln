@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-2 - CLASES", "Clase-2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-2 - EVENTOS", "Clase-2-2\Clase-2 - EVENTOS.csproj", "{DE889EC2-C04F-404D-ABF3-1227B78DFE18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-3 - EVENTOS", "Clase-3\Clase-3 - EVENTOS.csproj", "{DE4D38FE-8806-4982-AFDB-0D9EC78818B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase - 3 Polimorfismo", "Clase - 3 Polimorfismo\Clase - 3 Polimorfismo.csproj", "{F3AB7E0C-4A74-47CC-8B50-63BFB3964CD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{DE889EC2-C04F-404D-ABF3-1227B78DFE18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE889EC2-C04F-404D-ABF3-1227B78DFE18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE889EC2-C04F-404D-ABF3-1227B78DFE18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE4D38FE-8806-4982-AFDB-0D9EC78818B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4D38FE-8806-4982-AFDB-0D9EC78818B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4D38FE-8806-4982-AFDB-0D9EC78818B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE4D38FE-8806-4982-AFDB-0D9EC78818B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3AB7E0C-4A74-47CC-8B50-63BFB3964CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3AB7E0C-4A74-47CC-8B50-63BFB3964CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3AB7E0C-4A74-47CC-8B50-63BFB3964CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3AB7E0C-4A74-47CC-8B50-63BFB3964CD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
